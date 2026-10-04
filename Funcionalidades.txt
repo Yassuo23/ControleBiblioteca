@@ -5,3 +5,5 @@ Busca e Reserva de Acervo: Consulta online ao catálogo por título, autor ou ca
 Alertas e Notificações Automáticas: Envio de lembretes via e-mail ou aplicativo sobre prazos de devolução próximos, livros atrasados ou reservas disponíveis para retirada.
 
 Relatórios e Estatísticas de Leitura: Geração de relatórios gerenciais sobre os livros mais emprestados, perfil de leitura dos alunos e taxa de uso do acervo por período.
+
+Renovar empréstimo
