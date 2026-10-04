@@ -1,0 +1,52 @@
+[
+{
+"idUsuario": "USR-001",
+"nomeCompleto": "Carolina Mendes Rocha",
+"email": "carolina.mendes@email.com",
+"cpf": "123.456.789-00",
+"tipoUsuario": "Aluno",
+"matricula": "2026001",
+"dataCadastro": "2026-02-10",
+"status": "Ativo"
+},
+{
+"idUsuario": "USR-002",
+"nomeCompleto": "Fernando Henrique Castro",
+"email": "fernando.castro@email.com",
+"cpf": "234.567.890-11",
+"tipoUsuario": "Professor",
+"matricula": "PROF-884",
+"dataCadastro": "2026-01-15",
+"status": "Ativo"
+},
+{
+"idUsuario": "USR-003",
+"nomeCompleto": "Beatriz Lima Souza",
+"email": "juliana.souza@email.com",
+"cpf": "345.678.901-22",
+"tipoUsuario": "Aluno",
+"matricula": "2026005",
+"dataCadastro": "2026-02-12",
+"status": "Ativo"
+},
+{
+"idUsuario": "USR-004",
+"nomeCompleto": "Juliana Martins Barbosa",
+"email": "juliana.martins@email.com",
+"cpf": "456.789.012-33",
+"tipoUsuario": "Funcionário",
+"matricula": "FUNC-102",
+"dataCadastro": "2025-08-01",
+"status": "Ativo"
+},
+{
+"idUsuario": "USR-005",
+"nomeCompleto": "Lucas Santos Oliveira",
+"email": "camila.oliveira@email.com",
+"cpf": "567.890.123-44",
+"tipoUsuario": "Aluno",
+"matricula": "2026002",
+"dataCadastro": "2026-02-11",
+"status": "Bloqueado"
+}
+]
