@@ -1,0 +1,72 @@
+[
+{
+"isbn": "978-8535914849",
+"titulo": "A Revolução dos Bichos",
+"autor": "George Orwell",
+"categoria": "Ficção Científica / Sátira",
+"anoPublicacao": 1945,
+"editora": "Companhia das Letras",
+"quantidadeExemplares": 4,
+"status": "Disponível"
+},
+{
+"isbn": "978-8535902778",
+"titulo": "Dom Casmurro",
+"autor": "Machado de Assis",
+"categoria": "Literatura Brasileira / Romantismo",
+"anoPublicacao": 1899,
+"editora": "Penguin Companhia",
+"quantidadeExemplares": 6,
+"status": "Disponível"
+},
+{
+"isbn": "978-8575421130",
+"titulo": "O Hobbit",
+"autor": "J.R.R. Tolkien",
+"categoria": "Fantasia / Aventura",
+"anoPublicacao": 1937,
+"editora": "HarperCollins",
+"quantidadeExemplares": 3,
+"status": "Emprestado"
+},
+{
+"isbn": "978-8535909555",
+"titulo": "O Apanhador no Campo de Centeio",
+"autor": "J.D. Salinger",
+"categoria": "Ficção / Romance Formativo",
+"anoPublicacao": 1951,
+"editora": "Editora Todavia",
+"quantidadeExemplares": 2,
+"status": "Disponível"
+},
+{
+"isbn": "978-8580575392",
+"titulo": "Cosmos",
+"autor": "Carl Sagan",
+"categoria": "Divulgação Científica / Astronomia",
+"anoPublicacao": 1980,
+"editora": "Companhia das Letras",
+"quantidadeExemplares": 5,
+"status": "Disponível"
+},
+{
+"isbn": "978-8535910841",
+"titulo": "1984",
+"autor": "George Orwell",
+"categoria": "Ficção Distópica",
+"anoPublicacao": 1949,
+"editora": "Companhia das Letras",
+"quantidadeExemplares": 5,
+"status": "Disponível"
+},
+{
+"isbn": "978-8576572008",
+"titulo": "Duna",
+"autor": "Frank Herbert",
+"categoria": "Ficção Científica / Épico",
+"anoPublicacao": 1965,
+"editora": "Editora Aleph",
+"quantidadeExemplares": 3,
+"status": "Disponível"
+}
+]

@@ -1,0 +1,7 @@
+Controle de Empréstimos e Devoluções: Registro automatizado de retiradas, renovações e devoluções de livros, com cálculo automático de multas por atraso.
+
+Busca e Reserva de Acervo: Consulta online ao catálogo por título, autor ou categoria, permitindo que alunos e professores reservem exemplares indisponíveis.
+
+Alertas e Notificações Automáticas: Envio de lembretes via e-mail ou aplicativo sobre prazos de devolução próximos, livros atrasados ou reservas disponíveis para retirada.
+
+Relatórios e Estatísticas de Leitura: Geração de relatórios gerenciais sobre os livros mais emprestados, perfil de leitura dos alunos e taxa de uso do acervo por período.
